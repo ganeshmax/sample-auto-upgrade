@@ -249,3 +249,34 @@ objc[12436]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.a
 2013-11-02 12:07:12.527 sample-auto-upgrade[12436:80b] ---------- Manifest: {"name":"sample-auto-upgrade","version":{"web":1,"ios":1,"android":1},"files":["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]}
 2013-11-02 12:07:12.528 sample-auto-upgrade[12436:80b] ---------- Manifest - Version: {"web":1,"ios":1,"android":1}
 2013-11-02 12:07:12.528 sample-auto-upgrade[12436:80b] ---------- Manifest - Files: ["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]
+objc[13318]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2013-11-02 14:08:14.367 sample-auto-upgrade[13318:80b] Cannot find executable for CFBundle 0xa48a2c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2013-11-02 14:08:14.378 sample-auto-upgrade[13318:80b] Cannot find executable for CFBundle 0xa6c5b90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2013-11-02 14:08:14.447 sample-auto-upgrade[13318:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 14:08:14.452 sample-auto-upgrade[13318:80b] Unlimited access to network resources
+2013-11-02 14:08:14.564 sample-auto-upgrade[13318:80b] Resetting plugins due to page load.
+2013-11-02 14:08:14.610 sample-auto-upgrade[13318:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/sample-auto-upgrade.app/www/index.html
+objc[13388]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2013-11-02 14:09:14.600 sample-auto-upgrade[13388:80b] Cannot find executable for CFBundle 0xaa30f90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2013-11-02 14:09:14.615 sample-auto-upgrade[13388:80b] Cannot find executable for CFBundle 0xac3df80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2013-11-02 14:09:14.670 sample-auto-upgrade[13388:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 14:09:14.677 sample-auto-upgrade[13388:80b] Unlimited access to network resources
+2013-11-02 14:09:14.770 sample-auto-upgrade[13388:80b] Resetting plugins due to page load.
+2013-11-02 14:09:14.841 sample-auto-upgrade[13388:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/sample-auto-upgrade.app/www/index.html
+objc[13870]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2013-11-02 14:09:53.811 sample-auto-upgrade[13870:80b] Cannot find executable for CFBundle 0xa4b37c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2013-11-02 14:09:53.829 sample-auto-upgrade[13870:80b] Cannot find executable for CFBundle 0xa8ba9f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2013-11-02 14:09:53.888 sample-auto-upgrade[13870:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 14:09:53.895 sample-auto-upgrade[13870:80b] Unlimited access to network resources
+2013-11-02 14:09:53.996 sample-auto-upgrade[13870:80b] Resetting plugins due to page load.
+2013-11-02 14:09:54.073 sample-auto-upgrade[13870:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/sample-auto-upgrade.app/www/index.html
+2013-11-02 14:10:08.484 sample-auto-upgrade[13870:80b] Received memory warning.
+2013-11-02 14:27:37.211 sample-auto-upgrade[16364:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 14:27:37.217 sample-auto-upgrade[16364:80b] Unlimited access to network resources
+2013-11-02 14:27:37.292 sample-auto-upgrade[16364:80b] Resetting plugins due to page load.
+2013-11-02 14:27:37.320 sample-auto-upgrade[16364:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-11-02 14:27:49.253 sample-auto-upgrade[16435:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 14:27:49.261 sample-auto-upgrade[16435:80b] Unlimited access to network resources
+2013-11-02 14:27:49.358 sample-auto-upgrade[16435:80b] Resetting plugins due to page load.
+2013-11-02 14:27:49.387 sample-auto-upgrade[16435:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
