@@ -1,4 +1,6 @@
 {
+    "name": "sample-auto-upgrade",
+
     "version": {
         "web": 1,
         "ios": 1,

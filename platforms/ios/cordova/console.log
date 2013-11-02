@@ -1,0 +1,251 @@
+objc[10667]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2013-11-02 11:50:21.963 sample-auto-upgrade[10667:80b] Cannot find executable for CFBundle 0xa673100 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2013-11-02 11:50:21.975 sample-auto-upgrade[10667:80b] Cannot find executable for CFBundle 0xb2da460 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2013-11-02 11:50:22.033 sample-auto-upgrade[10667:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 11:50:22.037 sample-auto-upgrade[10667:80b] Unlimited access to network resources
+2013-11-02 11:50:22.119 sample-auto-upgrade[10667:80b] Resetting plugins due to page load.
+2013-11-02 11:50:22.234 sample-auto-upgrade[10667:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/sample-auto-upgrade.app/www/index.html
+2013-11-02 11:50:22.281 sample-auto-upgrade[10667:80b] ---------- Device is ready: --
+2013-11-02 11:50:22.282 sample-auto-upgrade[10667:80b] ---------- File System Name: persistent
+2013-11-02 11:50:22.282 sample-auto-upgrade[10667:80b] ---------- Persistent Dir: --
+2013-11-02 11:50:22.282 sample-auto-upgrade[10667:80b] ---------- Is File?: false
+2013-11-02 11:50:22.282 sample-auto-upgrade[10667:80b] ---------- Is Dir?: true
+2013-11-02 11:50:22.283 sample-auto-upgrade[10667:80b] ---------- Name: Documents
+2013-11-02 11:50:22.283 sample-auto-upgrade[10667:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents
+2013-11-02 11:50:22.283 sample-auto-upgrade[10667:80b] ---------- File System Name: temporary
+2013-11-02 11:50:22.283 sample-auto-upgrade[10667:80b] ---------- Temporary Dir: --
+2013-11-02 11:50:22.284 sample-auto-upgrade[10667:80b] ---------- Is File?: false
+2013-11-02 11:50:22.284 sample-auto-upgrade[10667:80b] ---------- Is Dir?: true
+2013-11-02 11:50:22.284 sample-auto-upgrade[10667:80b] ---------- Name: tmp
+2013-11-02 11:50:22.284 sample-auto-upgrade[10667:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/tmp
+2013-11-02 11:50:22.285 sample-auto-upgrade[10667:80b] ---------- File System Name: persistent
+2013-11-02 11:50:22.285 sample-auto-upgrade[10667:80b] ---------- Application Dir: --
+2013-11-02 11:50:22.285 sample-auto-upgrade[10667:80b] ---------- Is File?: false
+2013-11-02 11:50:22.285 sample-auto-upgrade[10667:80b] ---------- Is Dir?: true
+2013-11-02 11:50:22.285 sample-auto-upgrade[10667:80b] ---------- Name: Library
+2013-11-02 11:50:22.286 sample-auto-upgrade[10667:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents/../Library
+2013-11-02 11:50:22.286 sample-auto-upgrade[10667:80b] ---------- File/Dir Name: Caches
+2013-11-02 11:50:22.286 sample-auto-upgrade[10667:80b] ---------- File/Dir Name: Preferences
+2013-11-02 11:50:22.290 sample-auto-upgrade[10667:80b] ---------- Error: Failed to download manifest.json
+objc[10758]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2013-11-02 11:54:41.047 sample-auto-upgrade[10758:80b] Cannot find executable for CFBundle 0xa5a4ce0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2013-11-02 11:54:41.061 sample-auto-upgrade[10758:80b] Cannot find executable for CFBundle 0xa6b5980 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2013-11-02 11:54:41.116 sample-auto-upgrade[10758:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 11:54:41.123 sample-auto-upgrade[10758:80b] Unlimited access to network resources
+2013-11-02 11:54:41.228 sample-auto-upgrade[10758:80b] Resetting plugins due to page load.
+2013-11-02 11:54:41.285 sample-auto-upgrade[10758:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/sample-auto-upgrade.app/www/index.html
+2013-11-02 11:54:41.345 sample-auto-upgrade[10758:80b] ---------- Device is ready: --
+2013-11-02 11:54:41.345 sample-auto-upgrade[10758:80b] ---------- File System Name: persistent
+2013-11-02 11:54:41.345 sample-auto-upgrade[10758:80b] ---------- Persistent Dir: --
+2013-11-02 11:54:41.346 sample-auto-upgrade[10758:80b] ---------- Is File?: false
+2013-11-02 11:54:41.346 sample-auto-upgrade[10758:80b] ---------- Is Dir?: true
+2013-11-02 11:54:41.346 sample-auto-upgrade[10758:80b] ---------- Name: Documents
+2013-11-02 11:54:41.346 sample-auto-upgrade[10758:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents
+2013-11-02 11:54:41.347 sample-auto-upgrade[10758:80b] ---------- File System Name: temporary
+2013-11-02 11:54:41.347 sample-auto-upgrade[10758:80b] ---------- Temporary Dir: --
+2013-11-02 11:54:41.347 sample-auto-upgrade[10758:80b] ---------- Is File?: false
+2013-11-02 11:54:41.347 sample-auto-upgrade[10758:80b] ---------- Is Dir?: true
+2013-11-02 11:54:41.348 sample-auto-upgrade[10758:80b] ---------- Name: tmp
+2013-11-02 11:54:41.348 sample-auto-upgrade[10758:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/tmp
+2013-11-02 11:54:41.348 sample-auto-upgrade[10758:80b] ---------- File System Name: persistent
+2013-11-02 11:54:41.348 sample-auto-upgrade[10758:80b] ---------- Application Dir: --
+2013-11-02 11:54:41.349 sample-auto-upgrade[10758:80b] ---------- Is File?: false
+2013-11-02 11:54:41.349 sample-auto-upgrade[10758:80b] ---------- Is Dir?: true
+2013-11-02 11:54:41.349 sample-auto-upgrade[10758:80b] ---------- Name: Library
+2013-11-02 11:54:41.349 sample-auto-upgrade[10758:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents/../Library
+2013-11-02 11:54:41.349 sample-auto-upgrade[10758:80b] ---------- File/Dir Name: Caches
+2013-11-02 11:54:41.350 sample-auto-upgrade[10758:80b] ---------- File/Dir Name: Preferences
+2013-11-02 11:54:41.353 sample-auto-upgrade[10758:80b] ---------- Error: Failed to download manifest.json
+objc[11230]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2013-11-02 11:55:14.540 sample-auto-upgrade[11230:80b] Cannot find executable for CFBundle 0xa8bddb0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2013-11-02 11:55:14.559 sample-auto-upgrade[11230:80b] Cannot find executable for CFBundle 0xa5bd890 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2013-11-02 11:55:14.605 sample-auto-upgrade[11230:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 11:55:14.610 sample-auto-upgrade[11230:80b] Unlimited access to network resources
+2013-11-02 11:55:14.707 sample-auto-upgrade[11230:80b] Resetting plugins due to page load.
+2013-11-02 11:55:14.759 sample-auto-upgrade[11230:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/sample-auto-upgrade.app/www/index.html
+2013-11-02 11:55:14.804 sample-auto-upgrade[11230:80b] ---------- Device is ready: --
+2013-11-02 11:55:14.804 sample-auto-upgrade[11230:80b] ---------- File System Name: persistent
+2013-11-02 11:55:14.805 sample-auto-upgrade[11230:80b] ---------- Persistent Dir: --
+2013-11-02 11:55:14.805 sample-auto-upgrade[11230:80b] ---------- Is File?: false
+2013-11-02 11:55:14.805 sample-auto-upgrade[11230:80b] ---------- Is Dir?: true
+2013-11-02 11:55:14.805 sample-auto-upgrade[11230:80b] ---------- Name: Documents
+2013-11-02 11:55:14.806 sample-auto-upgrade[11230:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents
+2013-11-02 11:55:14.806 sample-auto-upgrade[11230:80b] ---------- File System Name: temporary
+2013-11-02 11:55:14.806 sample-auto-upgrade[11230:80b] ---------- Temporary Dir: --
+2013-11-02 11:55:14.806 sample-auto-upgrade[11230:80b] ---------- Is File?: false
+2013-11-02 11:55:14.807 sample-auto-upgrade[11230:80b] ---------- Is Dir?: true
+2013-11-02 11:55:14.807 sample-auto-upgrade[11230:80b] ---------- Name: tmp
+2013-11-02 11:55:14.807 sample-auto-upgrade[11230:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/tmp
+2013-11-02 11:55:14.807 sample-auto-upgrade[11230:80b] ---------- File System Name: persistent
+2013-11-02 11:55:14.808 sample-auto-upgrade[11230:80b] ---------- Application Dir: --
+2013-11-02 11:55:14.808 sample-auto-upgrade[11230:80b] ---------- Is File?: false
+2013-11-02 11:55:14.808 sample-auto-upgrade[11230:80b] ---------- Is Dir?: true
+2013-11-02 11:55:14.808 sample-auto-upgrade[11230:80b] ---------- Name: Library
+2013-11-02 11:55:14.809 sample-auto-upgrade[11230:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents/../Library
+2013-11-02 11:55:14.809 sample-auto-upgrade[11230:80b] ---------- File/Dir Name: Caches
+2013-11-02 11:55:14.809 sample-auto-upgrade[11230:80b] ---------- File/Dir Name: Preferences
+2013-11-02 11:55:14.814 sample-auto-upgrade[11230:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 11:55:14.814 sample-auto-upgrade[11230:80b] ---------- Manifest - Version - Web: 1
+2013-11-02 11:55:14.814 sample-auto-upgrade[11230:80b] ---------- Manifest - Version - iOS: 1
+2013-11-02 11:55:14.814 sample-auto-upgrade[11230:80b] ---------- Manifest - Version - Android: 1
+2013-11-02 11:55:14.814 sample-auto-upgrade[11230:80b] ---------- Manifest - files: ["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]
+objc[11344]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2013-11-02 12:04:28.045 sample-auto-upgrade[11344:80b] Cannot find executable for CFBundle 0xa82ae90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2013-11-02 12:04:28.055 sample-auto-upgrade[11344:80b] Cannot find executable for CFBundle 0xa6450c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2013-11-02 12:04:28.117 sample-auto-upgrade[11344:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 12:04:28.122 sample-auto-upgrade[11344:80b] Unlimited access to network resources
+2013-11-02 12:04:28.218 sample-auto-upgrade[11344:80b] Resetting plugins due to page load.
+2013-11-02 12:04:28.266 sample-auto-upgrade[11344:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/sample-auto-upgrade.app/www/index.html
+2013-11-02 12:04:28.325 sample-auto-upgrade[11344:80b] ---------- Device is ready: --
+2013-11-02 12:04:28.325 sample-auto-upgrade[11344:80b] ---------- File System Name: persistent
+2013-11-02 12:04:28.326 sample-auto-upgrade[11344:80b] ---------- Persistent Dir: --
+2013-11-02 12:04:28.326 sample-auto-upgrade[11344:80b] ---------- Is File?: false
+2013-11-02 12:04:28.326 sample-auto-upgrade[11344:80b] ---------- Is Dir?: true
+2013-11-02 12:04:28.326 sample-auto-upgrade[11344:80b] ---------- Name: Documents
+2013-11-02 12:04:28.327 sample-auto-upgrade[11344:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents
+2013-11-02 12:04:28.327 sample-auto-upgrade[11344:80b] ---------- File System Name: temporary
+2013-11-02 12:04:28.327 sample-auto-upgrade[11344:80b] ---------- Temporary Dir: --
+2013-11-02 12:04:28.327 sample-auto-upgrade[11344:80b] ---------- Is File?: false
+2013-11-02 12:04:28.328 sample-auto-upgrade[11344:80b] ---------- Is Dir?: true
+2013-11-02 12:04:28.328 sample-auto-upgrade[11344:80b] ---------- Name: tmp
+2013-11-02 12:04:28.328 sample-auto-upgrade[11344:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/tmp
+2013-11-02 12:04:28.328 sample-auto-upgrade[11344:80b] ---------- File System Name: persistent
+2013-11-02 12:04:28.328 sample-auto-upgrade[11344:80b] ---------- Application Dir: --
+2013-11-02 12:04:28.329 sample-auto-upgrade[11344:80b] ---------- Is File?: false
+2013-11-02 12:04:28.329 sample-auto-upgrade[11344:80b] ---------- Is Dir?: true
+2013-11-02 12:04:28.329 sample-auto-upgrade[11344:80b] ---------- Name: Library
+2013-11-02 12:04:28.329 sample-auto-upgrade[11344:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents/../Library
+2013-11-02 12:04:28.329 sample-auto-upgrade[11344:80b] ---------- File/Dir Name: Caches
+2013-11-02 12:04:28.330 sample-auto-upgrade[11344:80b] ---------- File/Dir Name: Preferences
+2013-11-02 12:04:28.333 sample-auto-upgrade[11344:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 12:04:28.333 sample-auto-upgrade[11344:80b] ---------- Manifest - Version - Web: 1
+2013-11-02 12:04:28.334 sample-auto-upgrade[11344:80b] ---------- Manifest - Version - iOS: 1
+2013-11-02 12:04:28.334 sample-auto-upgrade[11344:80b] ---------- Manifest - Version - Android: 1
+2013-11-02 12:04:28.334 sample-auto-upgrade[11344:80b] ---------- Manifest - files: ["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]
+objc[11413]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2013-11-02 12:04:47.322 sample-auto-upgrade[11413:80b] Cannot find executable for CFBundle 0xa48b150 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2013-11-02 12:04:47.343 sample-auto-upgrade[11413:80b] Cannot find executable for CFBundle 0xa491990 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2013-11-02 12:04:47.399 sample-auto-upgrade[11413:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 12:04:47.404 sample-auto-upgrade[11413:80b] Unlimited access to network resources
+2013-11-02 12:04:47.509 sample-auto-upgrade[11413:80b] Resetting plugins due to page load.
+2013-11-02 12:04:47.559 sample-auto-upgrade[11413:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/sample-auto-upgrade.app/www/index.html
+2013-11-02 12:04:47.612 sample-auto-upgrade[11413:80b] ---------- Device is ready: --
+2013-11-02 12:04:47.612 sample-auto-upgrade[11413:80b] ---------- File System Name: persistent
+2013-11-02 12:04:47.613 sample-auto-upgrade[11413:80b] ---------- Persistent Dir: --
+2013-11-02 12:04:47.613 sample-auto-upgrade[11413:80b] ---------- Is File?: false
+2013-11-02 12:04:47.613 sample-auto-upgrade[11413:80b] ---------- Is Dir?: true
+2013-11-02 12:04:47.613 sample-auto-upgrade[11413:80b] ---------- Name: Documents
+2013-11-02 12:04:47.614 sample-auto-upgrade[11413:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents
+2013-11-02 12:04:47.614 sample-auto-upgrade[11413:80b] ---------- File System Name: temporary
+2013-11-02 12:04:47.614 sample-auto-upgrade[11413:80b] ---------- Temporary Dir: --
+2013-11-02 12:04:47.614 sample-auto-upgrade[11413:80b] ---------- Is File?: false
+2013-11-02 12:04:47.615 sample-auto-upgrade[11413:80b] ---------- Is Dir?: true
+2013-11-02 12:04:47.615 sample-auto-upgrade[11413:80b] ---------- Name: tmp
+2013-11-02 12:04:47.615 sample-auto-upgrade[11413:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/tmp
+2013-11-02 12:04:47.615 sample-auto-upgrade[11413:80b] ---------- File System Name: persistent
+2013-11-02 12:04:47.615 sample-auto-upgrade[11413:80b] ---------- Application Dir: --
+2013-11-02 12:04:47.616 sample-auto-upgrade[11413:80b] ---------- Is File?: false
+2013-11-02 12:04:47.616 sample-auto-upgrade[11413:80b] ---------- Is Dir?: true
+2013-11-02 12:04:47.616 sample-auto-upgrade[11413:80b] ---------- Name: Library
+2013-11-02 12:04:47.616 sample-auto-upgrade[11413:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents/../Library
+2013-11-02 12:04:47.616 sample-auto-upgrade[11413:80b] ---------- File/Dir Name: Caches
+2013-11-02 12:04:47.617 sample-auto-upgrade[11413:80b] ---------- File/Dir Name: Preferences
+2013-11-02 12:04:47.620 sample-auto-upgrade[11413:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 12:04:47.620 sample-auto-upgrade[11413:80b] ---------- Manifest - Version - Web: 1
+2013-11-02 12:04:47.620 sample-auto-upgrade[11413:80b] ---------- Manifest - Version - iOS: 1
+2013-11-02 12:04:47.621 sample-auto-upgrade[11413:80b] ---------- Manifest - Version - Android: 1
+2013-11-02 12:04:47.621 sample-auto-upgrade[11413:80b] ---------- Manifest - files: ["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]
+objc[11886]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2013-11-02 12:05:24.931 sample-auto-upgrade[11886:80b] Cannot find executable for CFBundle 0xa627920 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2013-11-02 12:05:24.950 sample-auto-upgrade[11886:80b] Cannot find executable for CFBundle 0xa65db40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2013-11-02 12:05:25.016 sample-auto-upgrade[11886:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 12:05:25.021 sample-auto-upgrade[11886:80b] Unlimited access to network resources
+2013-11-02 12:05:25.132 sample-auto-upgrade[11886:80b] Resetting plugins due to page load.
+2013-11-02 12:05:25.178 sample-auto-upgrade[11886:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/sample-auto-upgrade.app/www/index.html
+2013-11-02 12:05:25.220 sample-auto-upgrade[11886:80b] ---------- Device is ready: --
+2013-11-02 12:05:25.220 sample-auto-upgrade[11886:80b] ---------- File System Name: persistent
+2013-11-02 12:05:25.221 sample-auto-upgrade[11886:80b] ---------- Persistent Dir: --
+2013-11-02 12:05:25.221 sample-auto-upgrade[11886:80b] ---------- Is File?: false
+2013-11-02 12:05:25.221 sample-auto-upgrade[11886:80b] ---------- Is Dir?: true
+2013-11-02 12:05:25.221 sample-auto-upgrade[11886:80b] ---------- Name: Documents
+2013-11-02 12:05:25.221 sample-auto-upgrade[11886:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents
+2013-11-02 12:05:25.222 sample-auto-upgrade[11886:80b] ---------- File System Name: temporary
+2013-11-02 12:05:25.222 sample-auto-upgrade[11886:80b] ---------- Temporary Dir: --
+2013-11-02 12:05:25.222 sample-auto-upgrade[11886:80b] ---------- Is File?: false
+2013-11-02 12:05:25.222 sample-auto-upgrade[11886:80b] ---------- Is Dir?: true
+2013-11-02 12:05:25.223 sample-auto-upgrade[11886:80b] ---------- Name: tmp
+2013-11-02 12:05:25.223 sample-auto-upgrade[11886:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/tmp
+2013-11-02 12:05:25.223 sample-auto-upgrade[11886:80b] ---------- File System Name: persistent
+2013-11-02 12:05:25.224 sample-auto-upgrade[11886:80b] ---------- Application Dir: --
+2013-11-02 12:05:25.224 sample-auto-upgrade[11886:80b] ---------- Is File?: false
+2013-11-02 12:05:25.224 sample-auto-upgrade[11886:80b] ---------- Is Dir?: true
+2013-11-02 12:05:25.224 sample-auto-upgrade[11886:80b] ---------- Name: Library
+2013-11-02 12:05:25.225 sample-auto-upgrade[11886:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents/../Library
+2013-11-02 12:05:25.225 sample-auto-upgrade[11886:80b] ---------- File/Dir Name: Caches
+2013-11-02 12:05:25.225 sample-auto-upgrade[11886:80b] ---------- File/Dir Name: Preferences
+2013-11-02 12:05:25.229 sample-auto-upgrade[11886:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 12:05:25.229 sample-auto-upgrade[11886:80b] ---------- Manifest - Version: {"web":1,"ios":1,"android":1}
+2013-11-02 12:05:25.229 sample-auto-upgrade[11886:80b] ---------- Manifest - Files: ["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]
+objc[11957]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2013-11-02 12:06:30.545 sample-auto-upgrade[11957:80b] Cannot find executable for CFBundle 0xa960400 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2013-11-02 12:06:30.567 sample-auto-upgrade[11957:80b] Cannot find executable for CFBundle 0xa99b370 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2013-11-02 12:06:30.625 sample-auto-upgrade[11957:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 12:06:30.630 sample-auto-upgrade[11957:80b] Unlimited access to network resources
+2013-11-02 12:06:30.735 sample-auto-upgrade[11957:80b] Resetting plugins due to page load.
+2013-11-02 12:06:30.786 sample-auto-upgrade[11957:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/sample-auto-upgrade.app/www/index.html
+2013-11-02 12:06:30.835 sample-auto-upgrade[11957:80b] ---------- Device is ready: --
+2013-11-02 12:06:30.836 sample-auto-upgrade[11957:80b] ---------- File System Name: persistent
+2013-11-02 12:06:30.836 sample-auto-upgrade[11957:80b] ---------- Persistent Dir: --
+2013-11-02 12:06:30.836 sample-auto-upgrade[11957:80b] ---------- Is File?: false
+2013-11-02 12:06:30.837 sample-auto-upgrade[11957:80b] ---------- Is Dir?: true
+2013-11-02 12:06:30.837 sample-auto-upgrade[11957:80b] ---------- Name: Documents
+2013-11-02 12:06:30.837 sample-auto-upgrade[11957:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents
+2013-11-02 12:06:30.837 sample-auto-upgrade[11957:80b] ---------- File System Name: temporary
+2013-11-02 12:06:30.838 sample-auto-upgrade[11957:80b] ---------- Temporary Dir: --
+2013-11-02 12:06:30.838 sample-auto-upgrade[11957:80b] ---------- Is File?: false
+2013-11-02 12:06:30.838 sample-auto-upgrade[11957:80b] ---------- Is Dir?: true
+2013-11-02 12:06:30.838 sample-auto-upgrade[11957:80b] ---------- Name: tmp
+2013-11-02 12:06:30.838 sample-auto-upgrade[11957:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/tmp
+2013-11-02 12:06:30.839 sample-auto-upgrade[11957:80b] ---------- File System Name: persistent
+2013-11-02 12:06:30.839 sample-auto-upgrade[11957:80b] ---------- Application Dir: --
+2013-11-02 12:06:30.839 sample-auto-upgrade[11957:80b] ---------- Is File?: false
+2013-11-02 12:06:30.839 sample-auto-upgrade[11957:80b] ---------- Is Dir?: true
+2013-11-02 12:06:30.840 sample-auto-upgrade[11957:80b] ---------- Name: Library
+2013-11-02 12:06:30.840 sample-auto-upgrade[11957:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents/../Library
+2013-11-02 12:06:30.840 sample-auto-upgrade[11957:80b] ---------- File/Dir Name: Caches
+2013-11-02 12:06:30.841 sample-auto-upgrade[11957:80b] ---------- File/Dir Name: Preferences
+2013-11-02 12:06:30.845 sample-auto-upgrade[11957:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 12:06:30.845 sample-auto-upgrade[11957:80b] ---------- Manifest - Version: {"web":1,"ios":1,"android":1}
+2013-11-02 12:06:30.845 sample-auto-upgrade[11957:80b] ---------- Manifest - Files: ["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]
+objc[12436]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2013-11-02 12:07:12.258 sample-auto-upgrade[12436:80b] Cannot find executable for CFBundle 0xa690350 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2013-11-02 12:07:12.276 sample-auto-upgrade[12436:80b] Cannot find executable for CFBundle 0xa6c19e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2013-11-02 12:07:12.320 sample-auto-upgrade[12436:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 12:07:12.325 sample-auto-upgrade[12436:80b] Unlimited access to network resources
+2013-11-02 12:07:12.429 sample-auto-upgrade[12436:80b] Resetting plugins due to page load.
+2013-11-02 12:07:12.476 sample-auto-upgrade[12436:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/sample-auto-upgrade.app/www/index.html
+2013-11-02 12:07:12.518 sample-auto-upgrade[12436:80b] ---------- Device is ready: --
+2013-11-02 12:07:12.519 sample-auto-upgrade[12436:80b] ---------- File System Name: persistent
+2013-11-02 12:07:12.519 sample-auto-upgrade[12436:80b] ---------- Persistent Dir: --
+2013-11-02 12:07:12.519 sample-auto-upgrade[12436:80b] ---------- Is File?: false
+2013-11-02 12:07:12.520 sample-auto-upgrade[12436:80b] ---------- Is Dir?: true
+2013-11-02 12:07:12.520 sample-auto-upgrade[12436:80b] ---------- Name: Documents
+2013-11-02 12:07:12.520 sample-auto-upgrade[12436:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents
+2013-11-02 12:07:12.520 sample-auto-upgrade[12436:80b] ---------- File System Name: temporary
+2013-11-02 12:07:12.521 sample-auto-upgrade[12436:80b] ---------- Temporary Dir: --
+2013-11-02 12:07:12.521 sample-auto-upgrade[12436:80b] ---------- Is File?: false
+2013-11-02 12:07:12.521 sample-auto-upgrade[12436:80b] ---------- Is Dir?: true
+2013-11-02 12:07:12.521 sample-auto-upgrade[12436:80b] ---------- Name: tmp
+2013-11-02 12:07:12.522 sample-auto-upgrade[12436:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/tmp
+2013-11-02 12:07:12.522 sample-auto-upgrade[12436:80b] ---------- File System Name: persistent
+2013-11-02 12:07:12.522 sample-auto-upgrade[12436:80b] ---------- Application Dir: --
+2013-11-02 12:07:12.522 sample-auto-upgrade[12436:80b] ---------- Is File?: false
+2013-11-02 12:07:12.523 sample-auto-upgrade[12436:80b] ---------- Is Dir?: true
+2013-11-02 12:07:12.523 sample-auto-upgrade[12436:80b] ---------- Name: Library
+2013-11-02 12:07:12.523 sample-auto-upgrade[12436:80b] ---------- FullPath: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/044B2548-2F6E-4092-ACC0-F0E843FDAFBB/Documents/../Library
+2013-11-02 12:07:12.523 sample-auto-upgrade[12436:80b] ---------- File/Dir Name: Caches
+2013-11-02 12:07:12.524 sample-auto-upgrade[12436:80b] ---------- File/Dir Name: Preferences
+2013-11-02 12:07:12.527 sample-auto-upgrade[12436:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 12:07:12.527 sample-auto-upgrade[12436:80b] ---------- Manifest: {"name":"sample-auto-upgrade","version":{"web":1,"ios":1,"android":1},"files":["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]}
+2013-11-02 12:07:12.528 sample-auto-upgrade[12436:80b] ---------- Manifest - Version: {"web":1,"ios":1,"android":1}
+2013-11-02 12:07:12.528 sample-auto-upgrade[12436:80b] ---------- Manifest - Files: ["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]

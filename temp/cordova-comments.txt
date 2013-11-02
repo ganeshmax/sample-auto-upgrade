@@ -1,0 +1,31 @@
+
+Install Cordova:
+Install Node.JS and NPM
+sudo npm install -g cordova - This will install cordova-cli globally.
+But you can also install cordova locally if you want using package.json, just that you cannot use "cordova create" to create a new cordova project
+
+Create Project:
+cordova create directoryName packageName projectName
+cordova platform add ios
+cordova plugin add org.apache.cordova.console - for console.log() to show up in XCode
+cordova plugin add org.apache.cordova.file-transfer - also installs "file" as dependent
+
+cordova prepare ios
+cordova compile ios
+
+cordova build ios - to prepare and compile both in one step
+
+Running or emulating ios directly from the root project directory is not working
+cordova run ios && cordova emulate ios - not working, maybe with new XCode, not sure
+
+Can emulate or run ios from the ios directory using ios specific command line tools
+For that you will first have to install ios-sim and ios-deploy. These are cli tools that will help launch simulator or install on device
+sudo npm install -g ios-sim
+sudo npm install -g ios-deploy
+
+Now emulate ios, but first by going to the ios platform directory and using the ios cli and not the general cli
+cd platforms/ios
+./cordova/emulate
+./cordova/run
+
+

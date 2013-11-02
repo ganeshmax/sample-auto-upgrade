@@ -1,10 +1,3 @@
-function log(name, value) {
-    if(value === undefined) {
-        value = '--';
-    }
-    $('#log').append(name + ': ' + value + '<br>');
-    console.log('---------- ' + name + ': ' + value);
-}
 
 var app = {
     initialize: function() {
@@ -12,89 +5,51 @@ var app = {
     },
 
     bindEvents: function() {
-        document.addEventListener('deviceready', this.onDeviceReady, false);
+        $(document).on('deviceready', this.onDeviceReady);
+        $("#btnDownload").on("click", this.downloadWeb);
+
     },
 
     onDeviceReady: function() {
         log('Device is ready');
-        app.persistentFs();
-        app.temporaryFs();
-        app.attemptLibraryFolder();
+        fileUtil.persistentFs();
+        fileUtil.temporaryFs();
+        fileUtil.attemptLibraryFolder();
+        app.initiateAutoUpgrade();
     },
 
-    persistentFs: function() {
-        window.requestFileSystem(LocalFileSystem.PERSISTENT, 0,
-            function(fs) {
-                log('File System Name', fs.name);
-
-                var rootDir = fs.root;
-                log('Persistent Dir');
-                log('Is File?', rootDir.isFile);
-                log('Is Dir?', rootDir.isDirectory);
-                log('Name', rootDir.name);
-                log('FullPath', rootDir.fullPath);
-            },
-            function(evt) {
-                log('Error accessing file system', evt.target.error.code);
-            }
-        );
+    initiateAutoUpgrade: function() {
+        app.downloadManifest();
     },
 
-    temporaryFs: function() {
-        window.requestFileSystem(LocalFileSystem.TEMPORARY, 0,
-            function(fs) {
-                log('File System Name', fs.name);
+    downloadManifest: function() {
+        $.getJSON('http://localhost:8000/manifest.json')
+            .done(function(data) {
+                log('Success', 'Successfully downloaded manifest.json');
+                log('Manifest', JSON.stringify(data));
+                log('Manifest - Version', JSON.stringify(data.version));
+                log('Manifest - Files', JSON.stringify(data.files));
 
-                var rootDir = fs.root;
-                log('Temporary Dir');
-                log('Is File?', rootDir.isFile);
-                log('Is Dir?', rootDir.isDirectory);
-                log('Name', rootDir.name);
-                log('FullPath', rootDir.fullPath);
-            },
-            function(evt) {
-                log('Error accessing file system', evt.target.error.code);
-            }
-        );
-    },
-
-    attemptLibraryFolder: function() {
-        window.requestFileSystem(LocalFileSystem.PERSISTENT, 0,
-            function(fs) {
-                log('File System Name', fs.name);
-
-                var rootDir = fs.root;
-                rootDir.getDirectory('../Library',
-                    {create: false, exclusive: false},
-                    function(appDir) {
-                        log('Application Dir');
-                        log('Is File?', appDir.isFile);
-                        log('Is Dir?', appDir.isDirectory);
-                        log('Name', appDir.name);
-                        log('FullPath', appDir.fullPath);
-
-                        var dirReader = appDir.createReader();
-                        dirReader.readEntries(
-                            function(entries) {
-                                for(var i=0; i<entries.length; i++) {
-                                    log("File/Dir Name", entries[i].name);
-                                }
-                            },
-                            function(error) {
-                                log("Error while reading Library entries", error.code);
-                            }
-                        )
-                    },
-                    function(error) {
-                        log('Error accessing App Dir', error.code);
-                    }
-                );
-
-            },
-            function(evt) {
-                log('Error accessing file system', evt.target.error.code);
-            }
-        );
+            })
+            .fail(function(jqXhr, textStatus, error) {
+                log('Error', 'Failed to download manifest.json');
+            })
     }
 };
 
+
+
+function download() {
+    var ft = new FileTransfer();
+    ft.download(
+        url,
+        window.rootFS.fullPath + "/" + fileName,
+        function(entry) {
+            console.log("download complete: " + entry.fullPath);
+
+        },
+        function(error) {
+            console.log("download error" + error.code);
+        }
+    );
+}
