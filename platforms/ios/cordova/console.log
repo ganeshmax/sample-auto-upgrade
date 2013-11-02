@@ -280,3 +280,83 @@ Terminating in response to SpringBoard's termination.
 2013-11-02 14:27:49.261 sample-auto-upgrade[16435:80b] Unlimited access to network resources
 2013-11-02 14:27:49.358 sample-auto-upgrade[16435:80b] Resetting plugins due to page load.
 2013-11-02 14:27:49.387 sample-auto-upgrade[16435:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 14:38:56.016 sample-auto-upgrade[17780:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 14:38:56.022 sample-auto-upgrade[17780:80b] Unlimited access to network resources
+2013-11-02 14:38:56.139 sample-auto-upgrade[17780:80b] Resetting plugins due to page load.
+2013-11-02 14:38:56.166 sample-auto-upgrade[17780:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 14:39:35.066 sample-auto-upgrade[18261:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 14:39:35.074 sample-auto-upgrade[18261:80b] Unlimited access to network resources
+2013-11-02 14:39:35.166 sample-auto-upgrade[18261:80b] Resetting plugins due to page load.
+2013-11-02 14:39:35.227 sample-auto-upgrade[18261:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 14:39:35.260 sample-auto-upgrade[18261:80b] ---------- deviceready: --
+2013-11-02 14:39:35.261 sample-auto-upgrade[18261:80b] ---------- Bootstap init: --
+2013-11-02 14:39:35.261 sample-auto-upgrade[18261:80b] ---------- downloadManifest: http://localhost:8000/manifest.json
+2013-11-02 14:39:35.271 sample-auto-upgrade[18261:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 14:39:35.271 sample-auto-upgrade[18261:80b] ---------- Manifest: {"name":"sample-auto-upgrade","version":{"web":1,"ios":1,"android":1},"files":["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]}
+2013-11-02 14:39:35.274 sample-auto-upgrade[18261:80b] ---------- App Dir Created: --
+2013-11-02 14:41:12.518 sample-auto-upgrade[18344:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 14:41:12.524 sample-auto-upgrade[18344:80b] Unlimited access to network resources
+2013-11-02 14:41:12.618 sample-auto-upgrade[18344:80b] Resetting plugins due to page load.
+2013-11-02 14:41:12.667 sample-auto-upgrade[18344:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 14:41:12.714 sample-auto-upgrade[18344:80b] ---------- deviceready: --
+2013-11-02 14:41:12.715 sample-auto-upgrade[18344:80b] ---------- Bootstap init: --
+2013-11-02 14:41:12.716 sample-auto-upgrade[18344:80b] ---------- downloadManifest: http://localhost:8000/manifest.json
+2013-11-02 14:41:12.727 sample-auto-upgrade[18344:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 14:41:12.727 sample-auto-upgrade[18344:80b] ---------- Manifest: {"name":"sample-auto-upgrade","version":{"web":1,"ios":1,"android":1},"files":["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]}
+2013-11-02 14:41:12.730 sample-auto-upgrade[18344:80b] ---------- App Dir Created: --
+2013-11-02 16:17:03.344 sample-auto-upgrade[19176:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 16:17:03.350 sample-auto-upgrade[19176:80b] Unlimited access to network resources
+2013-11-02 16:17:03.460 sample-auto-upgrade[19176:80b] Resetting plugins due to page load.
+2013-11-02 16:17:03.558 sample-auto-upgrade[19176:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 16:17:03.606 sample-auto-upgrade[19176:80b] ---------- deviceready: --
+2013-11-02 16:17:03.606 sample-auto-upgrade[19176:80b] ---------- Bootstap init: --
+2013-11-02 16:17:03.607 sample-auto-upgrade[19176:80b] ---------- downloadManifest: http://localhost:8000/manifest.json
+2013-11-02 16:17:03.615 sample-auto-upgrade[19176:80b] ---------- Error: Failed to download manifest.json
+2013-11-02 16:19:44.199 sample-auto-upgrade[19669:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 16:19:44.204 sample-auto-upgrade[19669:80b] Unlimited access to network resources
+2013-11-02 16:19:44.306 sample-auto-upgrade[19669:80b] Resetting plugins due to page load.
+2013-11-02 16:19:44.363 sample-auto-upgrade[19669:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 16:19:44.408 sample-auto-upgrade[19669:80b] ---------- deviceready: --
+2013-11-02 16:19:44.409 sample-auto-upgrade[19669:80b] ---------- Bootstap init: --
+2013-11-02 16:19:44.409 sample-auto-upgrade[19669:80b] ---------- downloadManifest: http://localhost:8000/manifest.json
+2013-11-02 16:19:44.418 sample-auto-upgrade[19669:80b] ---------- Error: Failed to download manifest.json
+2013-11-02 16:20:09.502 sample-auto-upgrade[20150:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 16:20:09.507 sample-auto-upgrade[20150:80b] Unlimited access to network resources
+2013-11-02 16:20:09.595 sample-auto-upgrade[20150:80b] Resetting plugins due to page load.
+2013-11-02 16:20:09.673 sample-auto-upgrade[20150:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 16:20:09.709 sample-auto-upgrade[20150:80b] ---------- deviceready: --
+2013-11-02 16:20:09.710 sample-auto-upgrade[20150:80b] ---------- Bootstap init: --
+2013-11-02 16:20:09.710 sample-auto-upgrade[20150:80b] ---------- downloadManifest: http://localhost:8000/manifest.json
+2013-11-02 16:20:09.737 sample-auto-upgrade[20150:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 16:20:09.737 sample-auto-upgrade[20150:80b] ---------- Manifest: {"name":"sample-auto-upgrade","version":{"web":1,"ios":1,"android":1},"files":["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]}
+2013-11-02 16:20:09.740 sample-auto-upgrade[20150:80b] ---------- App Dir Created: --
+2013-11-02 16:27:02.698 sample-auto-upgrade[20677:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 16:27:02.704 sample-auto-upgrade[20677:80b] Unlimited access to network resources
+2013-11-02 16:27:02.778 sample-auto-upgrade[20677:80b] Resetting plugins due to page load.
+2013-11-02 16:27:02.880 sample-auto-upgrade[20677:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 16:27:02.913 sample-auto-upgrade[20677:80b] ---------- deviceready: --
+2013-11-02 16:27:02.913 sample-auto-upgrade[20677:80b] ---------- Bootstap init: --
+2013-11-02 16:27:02.914 sample-auto-upgrade[20677:80b] ---------- downloadManifest: http://localhost:8000/manifest.json
+2013-11-02 16:27:02.935 sample-auto-upgrade[20677:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 16:27:02.935 sample-auto-upgrade[20677:80b] ---------- Manifest: {"name":"sample-auto-upgrade","version":{"web":1,"ios":1,"android":1},"files":["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]}
+2013-11-02 16:27:02.937 sample-auto-upgrade[20677:80b] ---------- App Dir Created: --
+2013-11-02 16:36:19.388 sample-auto-upgrade[21208:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 16:36:19.393 sample-auto-upgrade[21208:80b] Unlimited access to network resources
+2013-11-02 16:36:19.459 sample-auto-upgrade[21208:80b] Resetting plugins due to page load.
+2013-11-02 16:36:19.570 sample-auto-upgrade[21208:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 16:36:19.608 sample-auto-upgrade[21208:80b] ---------- deviceready: --
+2013-11-02 16:36:19.609 sample-auto-upgrade[21208:80b] ---------- Bootstap init: --
+2013-11-02 16:36:19.609 sample-auto-upgrade[21208:80b] ---------- downloadManifest: http://localhost:8000/manifest.json
+2013-11-02 16:36:19.683 sample-auto-upgrade[21208:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 16:36:19.683 sample-auto-upgrade[21208:80b] ---------- Manifest: {"name":"sample-auto-upgrade","version":{"web":1,"ios":1,"android":1},"files":["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]}
+2013-11-02 16:36:19.686 sample-auto-upgrade[21208:80b] ---------- App Dir Created: --
+2013-11-02 16:40:53.021 sample-auto-upgrade[21721:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 16:40:53.026 sample-auto-upgrade[21721:80b] Unlimited access to network resources
+2013-11-02 16:40:53.113 sample-auto-upgrade[21721:80b] Resetting plugins due to page load.
+2013-11-02 16:40:53.166 sample-auto-upgrade[21721:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 16:40:53.201 sample-auto-upgrade[21721:80b] ---------- deviceready: --
+2013-11-02 16:40:53.202 sample-auto-upgrade[21721:80b] ---------- Bootstap init: --
+2013-11-02 16:40:53.202 sample-auto-upgrade[21721:80b] ---------- downloadManifest: http://localhost:8000/manifest.json
+2013-11-02 16:40:53.214 sample-auto-upgrade[21721:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 16:40:53.214 sample-auto-upgrade[21721:80b] ---------- Manifest: {"name":"sample-auto-upgrade","version":{"web":1,"ios":1,"android":1},"files":["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]}
+2013-11-02 16:40:53.218 sample-auto-upgrade[21721:80b] ---------- App Dir Created: --

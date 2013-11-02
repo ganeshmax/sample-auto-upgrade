@@ -1,0 +1,2 @@
+
+create an automated process to build and run using cordova and grunt.
