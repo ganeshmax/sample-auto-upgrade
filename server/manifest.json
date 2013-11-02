@@ -1,0 +1,14 @@
+{
+    "version": {
+        "web": 1,
+        "ios": 1,
+        "android": 1
+    },
+
+    "files": [
+        "src/script/script.js",
+        "src/style/style.css",
+        "src/image/image.png",
+        "src/index.html"
+    ]
+}
