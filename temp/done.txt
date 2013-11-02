@@ -1,2 +1,5 @@
 Download manifest
 create app dir
+
+Downloaded files into documents folder under appName-appVersion folder and it is working perfectly fine. It is not clean.
+That is the task of the next iteration.

@@ -36,6 +36,6 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-shell');
 
     grunt.registerTask('debug-ios', ['shell:buildIos', 'shell:emulateIos']);
-    grunt.registerTask('emulate-ios', ['shell:emulateIos']);
+    grunt.registerTask('emulate-ios', ['shell:prepareIos', 'shell:emulateIos']);
 
 };

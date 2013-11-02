@@ -29,3 +29,11 @@ cd platforms/ios
 ./cordova/run
 
 
+BUILD:
+npm install grunt --save-dev
+npm install grunt-shell --save-dev - This way cordova commands can be executed in grunt
+Create Gruntfile.js with debug-ios tasks. This uses cordova shell commands to debug the app in simulator
+Added a Run configuration to Webstorm (Node.js), set the node, working and grunt directories and passed the grunt task as param.
+Used the Webstorm terminal to
+tail -f platforms/ios/cordova/console.log
+

@@ -360,3 +360,182 @@ Terminating in response to SpringBoard's termination.
 2013-11-02 16:40:53.214 sample-auto-upgrade[21721:80b] ---------- Success: Successfully downloaded manifest.json
 2013-11-02 16:40:53.214 sample-auto-upgrade[21721:80b] ---------- Manifest: {"name":"sample-auto-upgrade","version":{"web":1,"ios":1,"android":1},"files":["src/script/script.js","src/style/style.css","src/image/image.png","src/index.html"]}
 2013-11-02 16:40:53.218 sample-auto-upgrade[21721:80b] ---------- App Dir Created: --
+2013-11-02 17:08:50.776 sample-auto-upgrade[22412:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 17:08:50.784 sample-auto-upgrade[22412:80b] Unlimited access to network resources
+2013-11-02 17:08:50.925 sample-auto-upgrade[22412:80b] Resetting plugins due to page load.
+2013-11-02 17:08:51.114 sample-auto-upgrade[22412:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 17:08:51.145 sample-auto-upgrade[22412:80b] ---------- deviceready: --
+2013-11-02 17:08:51.145 sample-auto-upgrade[22412:80b] ---------- Bootstap init: --
+2013-11-02 17:08:51.146 sample-auto-upgrade[22412:80b] ---------- downloadManifest: http://localhost:8000/manifest.json
+2013-11-02 17:08:51.203 sample-auto-upgrade[22412:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 17:08:51.203 sample-auto-upgrade[22412:80b] ---------- Manifest: {"name":"sample-auto-upgrade","version":{"web":1,"ios":1,"android":1},"files":["script/script.js","style/style.css","image/image.png","index.html"]}
+2013-11-02 17:08:51.308 sample-auto-upgrade[22412:80b] THREAD WARNING: ['File'] took '103.614990' ms. Plugin should use a background thread.
+2013-11-02 17:08:51.309 sample-auto-upgrade[22412:80b] ---------- App Dir Created: --
+2013-11-02 17:08:51.309 sample-auto-upgrade[22412:80b] ---------- Server URL: http://localhost:8000/script/script.js
+2013-11-02 17:08:51.309 sample-auto-upgrade[22412:80b] ---------- Local URL: [object Object]script/script.js
+2013-11-02 17:08:51.309 sample-auto-upgrade[22412:80b] File Transfer Error: Invalid file path or URL [object Object]script/script.js
+2013-11-02 17:08:51.310 sample-auto-upgrade[22412:80b] FileTransferError {
+    code = 1;
+    source = "http://localhost:8000/script/script.js";
+    target = "[object Object]script/script.js";
+}
+2013-11-02 17:08:51.310 sample-auto-upgrade[22412:80b] ---------- Server URL: http://localhost:8000/style/style.css
+2013-11-02 17:08:51.310 sample-auto-upgrade[22412:80b] ---------- Local URL: [object Object]style/style.css
+2013-11-02 17:08:51.310 sample-auto-upgrade[22412:80b] File Transfer Error: Invalid file path or URL [object Object]style/style.css
+2013-11-02 17:08:51.311 sample-auto-upgrade[22412:80b] FileTransferError {
+    code = 1;
+    source = "http://localhost:8000/style/style.css";
+    target = "[object Object]style/style.css";
+}
+2013-11-02 17:08:51.311 sample-auto-upgrade[22412:80b] ---------- Server URL: http://localhost:8000/image/image.png
+2013-11-02 17:08:51.311 sample-auto-upgrade[22412:80b] ---------- Local URL: [object Object]image/image.png
+2013-11-02 17:08:51.311 sample-auto-upgrade[22412:80b] File Transfer Error: Invalid file path or URL [object Object]image/image.png
+2013-11-02 17:08:51.312 sample-auto-upgrade[22412:80b] FileTransferError {
+    code = 1;
+    source = "http://localhost:8000/image/image.png";
+    target = "[object Object]image/image.png";
+}
+2013-11-02 17:08:51.312 sample-auto-upgrade[22412:80b] ---------- Server URL: http://localhost:8000/index.html
+2013-11-02 17:08:51.312 sample-auto-upgrade[22412:80b] ---------- Local URL: [object Object]index.html
+2013-11-02 17:08:51.312 sample-auto-upgrade[22412:80b] File Transfer Error: Invalid file path or URL [object Object]index.html
+2013-11-02 17:08:51.313 sample-auto-upgrade[22412:80b] FileTransferError {
+    code = 1;
+    source = "http://localhost:8000/index.html";
+    target = "[object Object]index.html";
+}
+2013-11-02 17:08:51.313 sample-auto-upgrade[22412:80b] ---------- download error: 1
+2013-11-02 17:08:51.313 sample-auto-upgrade[22412:80b] ---------- download error: 1
+2013-11-02 17:08:51.313 sample-auto-upgrade[22412:80b] ---------- download error: 1
+2013-11-02 17:08:51.314 sample-auto-upgrade[22412:80b] ---------- download error: 1
+2013-11-02 17:10:12.132 sample-auto-upgrade[22904:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 17:10:12.140 sample-auto-upgrade[22904:80b] Unlimited access to network resources
+2013-11-02 17:10:12.254 sample-auto-upgrade[22904:80b] Resetting plugins due to page load.
+2013-11-02 17:10:12.388 sample-auto-upgrade[22904:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 17:10:12.424 sample-auto-upgrade[22904:80b] ---------- deviceready: --
+2013-11-02 17:10:12.424 sample-auto-upgrade[22904:80b] ---------- Bootstap init: --
+2013-11-02 17:10:12.425 sample-auto-upgrade[22904:80b] ---------- downloadManifest: http://localhost:8000/manifest.json
+2013-11-02 17:10:12.617 sample-auto-upgrade[22904:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 17:10:12.617 sample-auto-upgrade[22904:80b] ---------- Manifest: {"name":"sample-auto-upgrade","version":{"web":1,"ios":1,"android":1},"files":["script/script.js","style/style.css","image/image.png","index.html"]}
+2013-11-02 17:10:12.621 sample-auto-upgrade[22904:80b] ---------- App Dir Created: --
+2013-11-02 17:10:12.621 sample-auto-upgrade[22904:80b] ---------- Server URL: http://localhost:8000/script/script.js
+2013-11-02 17:10:12.622 sample-auto-upgrade[22904:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1script/script.js
+2013-11-02 17:10:12.622 sample-auto-upgrade[22904:80b] ---------- Server URL: http://localhost:8000/style/style.css
+2013-11-02 17:10:12.623 sample-auto-upgrade[22904:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1style/style.css
+2013-11-02 17:10:12.623 sample-auto-upgrade[22904:80b] ---------- Server URL: http://localhost:8000/image/image.png
+2013-11-02 17:10:12.623 sample-auto-upgrade[22904:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1image/image.png
+2013-11-02 17:10:12.624 sample-auto-upgrade[22904:80b] ---------- Server URL: http://localhost:8000/index.html
+2013-11-02 17:10:12.624 sample-auto-upgrade[22904:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1index.html
+2013-11-02 17:10:12.631 sample-auto-upgrade[22904:80b] File Transfer Finished with response code 404
+2013-11-02 17:10:12.631 sample-auto-upgrade[22904:80b] FileTransferError {
+    body = "Cannot GET /image/image.png";
+    code = 3;
+    "http_status" = 404;
+    source = "http://localhost:8000/image/image.png";
+    target = "/Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1image/image.png";
+}
+2013-11-02 17:10:12.642 sample-auto-upgrade[22904:80b] ---------- download error: 3
+2013-11-02 17:10:12.914 sample-auto-upgrade[22904:80b] File Transfer Finished with response code 200
+2013-11-02 17:10:12.915 sample-auto-upgrade[22904:80b] File Transfer Finished with response code 200
+2013-11-02 17:10:12.915 sample-auto-upgrade[22904:80b] File Transfer Finished with response code 200
+2013-11-02 17:10:12.917 sample-auto-upgrade[22904:80b] ---------- download of http://localhost:8000/index.html complete: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1index.html
+2013-11-02 17:10:12.917 sample-auto-upgrade[22904:80b] ---------- download of http://localhost:8000/script/script.js complete: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1script/script.js
+2013-11-02 17:10:12.918 sample-auto-upgrade[22904:80b] ---------- download of http://localhost:8000/style/style.css complete: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1style/style.css
+2013-11-02 17:11:05.267 sample-auto-upgrade[23395:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 17:11:05.272 sample-auto-upgrade[23395:80b] Unlimited access to network resources
+2013-11-02 17:11:05.356 sample-auto-upgrade[23395:80b] Resetting plugins due to page load.
+2013-11-02 17:11:05.435 sample-auto-upgrade[23395:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 17:11:05.473 sample-auto-upgrade[23395:80b] ---------- deviceready: --
+2013-11-02 17:11:05.473 sample-auto-upgrade[23395:80b] ---------- Bootstap init: --
+2013-11-02 17:11:05.474 sample-auto-upgrade[23395:80b] ---------- downloadManifest: http://localhost:8000/manifest.json
+2013-11-02 17:11:05.494 sample-auto-upgrade[23395:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 17:11:05.494 sample-auto-upgrade[23395:80b] ---------- Manifest: {"name":"sample-auto-upgrade","version":{"web":1,"ios":1,"android":1},"files":["script/script.js","style/style.css","image/image.png","index.html"]}
+2013-11-02 17:11:05.499 sample-auto-upgrade[23395:80b] ---------- App Dir Created: --
+2013-11-02 17:11:05.500 sample-auto-upgrade[23395:80b] ---------- Server URL: http://localhost:8000/script/script.js
+2013-11-02 17:11:05.500 sample-auto-upgrade[23395:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/script/script.js
+2013-11-02 17:11:05.501 sample-auto-upgrade[23395:80b] ---------- Server URL: http://localhost:8000/style/style.css
+2013-11-02 17:11:05.501 sample-auto-upgrade[23395:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/style/style.css
+2013-11-02 17:11:05.501 sample-auto-upgrade[23395:80b] ---------- Server URL: http://localhost:8000/image/image.png
+2013-11-02 17:11:05.502 sample-auto-upgrade[23395:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/image/image.png
+2013-11-02 17:11:05.502 sample-auto-upgrade[23395:80b] ---------- Server URL: http://localhost:8000/index.html
+2013-11-02 17:11:05.502 sample-auto-upgrade[23395:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/index.html
+2013-11-02 17:11:05.512 sample-auto-upgrade[23395:80b] File Transfer Finished with response code 404
+2013-11-02 17:11:05.512 sample-auto-upgrade[23395:80b] FileTransferError {
+    body = "Cannot GET /image/image.png";
+    code = 3;
+    "http_status" = 404;
+    source = "http://localhost:8000/image/image.png";
+    target = "/Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/image/image.png";
+}
+2013-11-02 17:11:05.537 sample-auto-upgrade[23395:80b] ---------- download error: 3
+2013-11-02 17:11:05.539 sample-auto-upgrade[23395:80b] File Transfer Finished with response code 200
+2013-11-02 17:11:05.541 sample-auto-upgrade[23395:80b] File Transfer Finished with response code 200
+2013-11-02 17:11:05.542 sample-auto-upgrade[23395:80b] ---------- download of http://localhost:8000/script/script.js complete: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/script/script.js
+2013-11-02 17:11:05.543 sample-auto-upgrade[23395:80b] ---------- download of http://localhost:8000/index.html complete: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/index.html
+2013-11-02 17:11:05.557 sample-auto-upgrade[23395:80b] File Transfer Finished with response code 200
+2013-11-02 17:11:05.558 sample-auto-upgrade[23395:80b] ---------- download of http://localhost:8000/style/style.css complete: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/style/style.css
+2013-11-02 17:12:54.388 sample-auto-upgrade[23482:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 17:12:54.396 sample-auto-upgrade[23482:80b] Unlimited access to network resources
+2013-11-02 17:12:54.500 sample-auto-upgrade[23482:80b] Resetting plugins due to page load.
+2013-11-02 17:12:54.555 sample-auto-upgrade[23482:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 17:12:54.606 sample-auto-upgrade[23482:80b] ---------- deviceready: --
+2013-11-02 17:12:54.606 sample-auto-upgrade[23482:80b] ---------- Bootstap init: --
+2013-11-02 17:12:54.607 sample-auto-upgrade[23482:80b] ---------- downloadManifest: http://localhost:8000/manifest.json
+2013-11-02 17:12:54.622 sample-auto-upgrade[23482:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 17:12:54.622 sample-auto-upgrade[23482:80b] ---------- Manifest: {"name":"sample-auto-upgrade","version":{"web":1,"ios":1,"android":1},"files":["script/script.js","style/style.css","image/image.png","index.html"]}
+2013-11-02 17:12:54.628 sample-auto-upgrade[23482:80b] ---------- App Dir Created: --
+2013-11-02 17:12:54.629 sample-auto-upgrade[23482:80b] ---------- Server URL: http://localhost:8000/script/script.js
+2013-11-02 17:12:54.629 sample-auto-upgrade[23482:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/script/script.js
+2013-11-02 17:12:54.630 sample-auto-upgrade[23482:80b] ---------- Server URL: http://localhost:8000/style/style.css
+2013-11-02 17:12:54.630 sample-auto-upgrade[23482:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/style/style.css
+2013-11-02 17:12:54.630 sample-auto-upgrade[23482:80b] ---------- Server URL: http://localhost:8000/image/image.png
+2013-11-02 17:12:54.631 sample-auto-upgrade[23482:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/image/image.png
+2013-11-02 17:12:54.632 sample-auto-upgrade[23482:80b] ---------- Server URL: http://localhost:8000/index.html
+2013-11-02 17:12:54.632 sample-auto-upgrade[23482:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/index.html
+2013-11-02 17:12:54.640 sample-auto-upgrade[23482:80b] File Transfer Finished with response code 404
+2013-11-02 17:12:54.640 sample-auto-upgrade[23482:80b] FileTransferError {
+    body = "Cannot GET /image/image.png";
+    code = 3;
+    "http_status" = 404;
+    source = "http://localhost:8000/image/image.png";
+    target = "/Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/image/image.png";
+}
+2013-11-02 17:12:54.641 sample-auto-upgrade[23482:80b] File Transfer Finished with response code 200
+2013-11-02 17:12:54.662 sample-auto-upgrade[23482:80b] ---------- download error: 3
+2013-11-02 17:12:54.663 sample-auto-upgrade[23482:80b] ---------- download of http://localhost:8000/style/style.css complete: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/style/style.css
+2013-11-02 17:12:54.664 sample-auto-upgrade[23482:80b] File Transfer Finished with response code 200
+2013-11-02 17:12:54.665 sample-auto-upgrade[23482:80b] File Transfer Finished with response code 200
+2013-11-02 17:12:54.666 sample-auto-upgrade[23482:80b] ---------- download of http://localhost:8000/script/script.js complete: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/script/script.js
+2013-11-02 17:12:54.667 sample-auto-upgrade[23482:80b] ---------- download of http://localhost:8000/index.html complete: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/index.html
+2013-11-02 17:13:22.203 sample-auto-upgrade[23557:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-02 17:13:22.209 sample-auto-upgrade[23557:80b] Unlimited access to network resources
+2013-11-02 17:13:22.306 sample-auto-upgrade[23557:80b] Resetting plugins due to page load.
+2013-11-02 17:13:22.363 sample-auto-upgrade[23557:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-02 17:13:22.402 sample-auto-upgrade[23557:80b] ---------- deviceready: --
+2013-11-02 17:13:22.402 sample-auto-upgrade[23557:80b] ---------- Bootstap init: --
+2013-11-02 17:13:22.403 sample-auto-upgrade[23557:80b] ---------- downloadManifest: http://localhost:8000/manifest.json
+2013-11-02 17:13:22.416 sample-auto-upgrade[23557:80b] ---------- Success: Successfully downloaded manifest.json
+2013-11-02 17:13:22.416 sample-auto-upgrade[23557:80b] ---------- Manifest: {"name":"sample-auto-upgrade","version":{"web":1,"ios":1,"android":1},"files":["script/script.js","style/style.css","image/image.png","index.html"]}
+2013-11-02 17:13:22.423 sample-auto-upgrade[23557:80b] ---------- App Dir Created: --
+2013-11-02 17:13:22.423 sample-auto-upgrade[23557:80b] ---------- Server URL: http://localhost:8000/script/script.js
+2013-11-02 17:13:22.424 sample-auto-upgrade[23557:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/script/script.js
+2013-11-02 17:13:22.424 sample-auto-upgrade[23557:80b] ---------- Server URL: http://localhost:8000/style/style.css
+2013-11-02 17:13:22.425 sample-auto-upgrade[23557:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/style/style.css
+2013-11-02 17:13:22.425 sample-auto-upgrade[23557:80b] ---------- Server URL: http://localhost:8000/image/image.png
+2013-11-02 17:13:22.425 sample-auto-upgrade[23557:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/image/image.png
+2013-11-02 17:13:22.426 sample-auto-upgrade[23557:80b] ---------- Server URL: http://localhost:8000/index.html
+2013-11-02 17:13:22.426 sample-auto-upgrade[23557:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/index.html
+2013-11-02 17:13:22.435 sample-auto-upgrade[23557:80b] File Transfer Finished with response code 200
+2013-11-02 17:13:22.436 sample-auto-upgrade[23557:80b] File Transfer Finished with response code 200
+2013-11-02 17:13:22.437 sample-auto-upgrade[23557:80b] File Transfer Finished with response code 200
+2013-11-02 17:13:22.453 sample-auto-upgrade[23557:80b] ---------- download of http://localhost:8000/script/script.js complete: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/script/script.js
+2013-11-02 17:13:22.454 sample-auto-upgrade[23557:80b] ---------- download of http://localhost:8000/index.html complete: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/index.html
+2013-11-02 17:13:22.455 sample-auto-upgrade[23557:80b] ---------- download of http://localhost:8000/style/style.css complete: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/style/style.css
+2013-11-02 17:13:22.455 sample-auto-upgrade[23557:80b] File Transfer Finished with response code 404
+2013-11-02 17:13:22.456 sample-auto-upgrade[23557:80b] FileTransferError {
+    body = "Cannot GET /image/image.png";
+    code = 3;
+    "http_status" = 404;
+    source = "http://localhost:8000/image/image.png";
+    target = "/Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/image/image.png";
+}
+2013-11-02 17:13:22.457 sample-auto-upgrade[23557:80b] ---------- download error: 3

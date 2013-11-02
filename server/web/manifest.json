@@ -8,9 +8,9 @@
     },
 
     "files": [
-        "src/script/script.js",
-        "src/style/style.css",
-        "src/image/image.png",
-        "src/index.html"
+        "script/script.js",
+        "style/style.css",
+        "image/image.png",
+        "index.html"
     ]
 }
