@@ -8,7 +8,7 @@ var freshner = {
         var self = this;
         util.log('Bootstrap init');
 
-        localDb.reset();
+        // localDb.reset();
 
         async.waterfall([
             function getCurrentAppDirectory(next) {

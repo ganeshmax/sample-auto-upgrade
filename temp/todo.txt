@@ -1,2 +1,9 @@
 
 create an automated process to build and run using cordova and grunt.
+
+new download working
+upgrade working
+
+When the upgrade download having problem, redirecting to old download not working. I think there is a problem with localStorage 'undefined'.
+It is not considering that the entry is not there... Somehow it is returning a string called 'undefined' and my app is considering that to be a valid version.
+Or maybe it is taking that from the manifest (not the localStorage). Verify

@@ -2,7 +2,6 @@
     "name": "sample-auto-upgrade",
 
     "version": {
-        "web": 2,
         "ios": 1,
         "android": 1
     },

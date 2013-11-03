@@ -2,32 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7850eed-0b24-46dc-9f10-926cea3fb81e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/AppDirectory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/AppDirectory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/BootstrapError.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/BootstrapError.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/lib/async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/bootstrapAsync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/bootstrapAsync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/flow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/lib/flow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/freshner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/freshner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/localDb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/localDb.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/www/js/bootstrap.js" afterPath="$PROJECT_DIR$/www/js/bootstrap.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/sample-auto-upgrade.xcodeproj/project.xcworkspace/xcuserdata/sganeshji.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/platforms/ios/sample-auto-upgrade.xcodeproj/project.xcworkspace/xcuserdata/sganeshji.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/js/bootstrap.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/console.log" afterPath="$PROJECT_DIR$/platforms/ios/cordova/console.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/index.html" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/web/index.html" afterPath="$PROJECT_DIR$/server/web/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/js/index.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="$PROJECT_DIR$/www/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/js/bootstrapAsync.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/bootstrapAsync.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/bootstrapAsync.js" afterPath="$PROJECT_DIR$/www/js/bootstrapAsync.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/web/manifest.json" afterPath="$PROJECT_DIR$/server/web/manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/js/util.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/util.js" afterPath="$PROJECT_DIR$/www/js/util.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/todo.txt" afterPath="$PROJECT_DIR$/temp/todo.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample-auto-upgrade.iws" />
@@ -52,19 +31,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="freshner.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/freshner.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="131" column="0" selection-start="4517" selection-end="4857" vertical-scroll-proportion="0.0" vertical-offset="1365" max-vertical-offset="2850">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="bootstrapAsync.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/bootstrapAsync.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="105" column="31" selection-start="4449" selection-end="4449" vertical-scroll-proportion="0.0" vertical-offset="1716" max-vertical-offset="2370">
+            <state line="20" column="26" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2370">
               <folding />
             </state>
           </provider>
@@ -88,10 +58,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manifest.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="manifest.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/web/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="16" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0990099" vertical-offset="0" max-vertical-offset="606">
+            <state line="4" column="16" selection-start="71" selection-end="71" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="315">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="done.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/temp/done.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todo.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/temp/todo.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="75" selection-start="485" selection-end="485" vertical-scroll-proportion="0.1904762" vertical-offset="0" max-vertical-offset="630">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="24" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1590">
               <folding />
             </state>
           </provider>
@@ -101,15 +98,6 @@
         <entry file="file://$PROJECT_DIR$/platforms/ios/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="660">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
@@ -133,15 +121,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="localDb.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/localDb.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="6" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="6" max-vertical-offset="945">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -160,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/www/js/WebDownloader.js" />
         <option value="$PROJECT_DIR$/www/js/lib/async.js" />
         <option value="$PROJECT_DIR$/www/js/bootstrap.js" />
         <option value="$PROJECT_DIR$/www/js/lib/flow.js" />
@@ -173,9 +151,10 @@
         <option value="$PROJECT_DIR$/platforms/ios/build/device/sample-auto-upgrade.app/www/js/AppDirectory.js" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/js/AppDirectory.js" />
-        <option value="$PROJECT_DIR$/www/js/bootstrapAsync.js" />
         <option value="$PROJECT_DIR$/server/web/index.html" />
+        <option value="$PROJECT_DIR$/www/js/bootstrapAsync.js" />
         <option value="$PROJECT_DIR$/server/web/manifest.json" />
+        <option value="$PROJECT_DIR$/temp/todo.txt" />
       </list>
     </option>
   </component>
@@ -227,6 +206,84 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sample-auto-upgrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample-auto-upgrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample-auto-upgrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample-auto-upgrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample-auto-upgrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample-auto-upgrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample-auto-upgrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample-auto-upgrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample-auto-upgrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample-auto-upgrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample-auto-upgrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -361,7 +418,11 @@
       <created>1383426893372</created>
       <updated>1383426893372</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Tried using flow-js, step-js and async-js to enable async flow to avoid pyramid hell.&#10;Currently, i was successful in making async work with proper and somewhat clean code.&#10;I had flow working 90% but was not satisfied by the library maturity and the code cleanliness that it was giving or the documentation that was available. So, currently it is still there temporarily. Next checkin, all the extraneous code will be moved to temp.&#10;The entire process of downloading the manifest and downloading the code etc has been performed and the application is getting installed and upgraded and redirected to. Success...">
+      <created>1383512340193</created>
+      <updated>1383512340193</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -402,33 +463,13 @@
     <MESSAGE value="Separated config, util and bootstrap into individual JS files. This is just an initial cleanup. Full cleanup after the app starts working as expected.&#10;Created app directory in the local documents folder based on the manifest appName and appVersion." />
     <MESSAGE value="Added Grunt and Grunt Shell.&#10;Added tasks to debug ios directly from grunt.&#10;Integrated Grunt into Webstorm using the Node.js facility.&#10;Used the Webstorm terminal to tail the log files.&#10;Now, just pressing the play button will build the ios app, run simulator, deploy in ios simulator and debug the app." />
     <MESSAGE value="Downloaded files into documents folder under appName-appVersion folder and it is working perfectly fine. It is not clean.&#10;That is the task of the next iteration." />
-    <option name="LAST_COMMIT_MESSAGE" value="Downloaded files into documents folder under appName-appVersion folder and it is working perfectly fine. It is not clean.&#10;That is the task of the next iteration." />
+    <MESSAGE value="Tried using flow-js, step-js and async-js to enable async flow to avoid pyramid hell.&#10;Currently, i was successful in making async work with proper and somewhat clean code.&#10;I had flow working 90% but was not satisfied by the library maturity and the code cleanliness that it was giving or the documentation that was available. So, currently it is still there temporarily. Next checkin, all the extraneous code will be moved to temp.&#10;The entire process of downloading the manifest and downloading the code etc has been performed and the application is getting installed and upgraded and redirected to. Success..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tried using flow-js, step-js and async-js to enable async flow to avoid pyramid hell.&#10;Currently, i was successful in making async work with proper and somewhat clean code.&#10;I had flow working 90% but was not satisfied by the library maturity and the code cleanliness that it was giving or the documentation that was available. So, currently it is still there temporarily. Next checkin, all the extraneous code will be moved to temp.&#10;The entire process of downloading the manifest and downloading the code etc has been performed and the application is getting installed and upgraded and redirected to. Success..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/platforms/ios/build/emulator/sample-auto-upgrade.app/www/js/freshner.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="9" selection-start="3737" selection-end="3737" vertical-scroll-proportion="0.0" vertical-offset="1367" max-vertical-offset="2580">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="24" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1590">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/ios/build/device/sample-auto-upgrade.app/www/js/AppDirectory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="4" selection-start="641" selection-end="641" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="1050">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/platforms/ios/build/emulator/sample-auto-upgrade.app/www/js/AppDirectory.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
@@ -447,7 +488,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="41" selection-start="1297" selection-end="1297" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1275">
           <folding>
-            <marker date="1383512041000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1383512418000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -487,13 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/bootstrapAsync.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="31" selection-start="4449" selection-end="4449" vertical-scroll-proportion="0.0" vertical-offset="1716" max-vertical-offset="2370">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/web/script/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
@@ -515,9 +549,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="24" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1590">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/bootstrapAsync.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="26" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2370">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/web/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="16" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0990099" vertical-offset="0" max-vertical-offset="606">
+        <state line="4" column="16" selection-start="71" selection-end="71" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/done.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/todo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="75" selection-start="485" selection-end="485" vertical-scroll-proportion="0.1904762" vertical-offset="0" max-vertical-offset="630">
           <folding />
         </state>
       </provider>
