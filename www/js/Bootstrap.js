@@ -1,87 +1,101 @@
 var bootstrap = {
 
-    appDir: null,
+    appDirectory: null, // Will be filled by init
 
-    initialize: function() {
-        util.log('Bootstap init');
+    /**
+     * Download manifest
+     * Check localStorage.manifest version and downloaded manifest version
+     *  If same,
+     *      get AppDirectory based on name+version that is stored in the localStorage,
+     *      redirect user to the index.html in the AppDirectory
+ *      If not same,
+     *      create AppDirectory with new name+version that is in the manifest
+     *      download files in the manifest to the AppDirectory
+     *      store the new name+version in localStorage
+     *      remove the old AppDirectory
+     *      redirect user to the index.html in the AppDirectory
+     */
+    init: function() {
+        var self = this;
+        util.log('Bootstrap init');
 
-        // Download Manifest
-        // Get App name and version and create localDir
-        // Download files in manifest.json to the localDir
-        var downloadManifestPromise = this.downloadManifest();
-        downloadManifestPromise.done(function(manifest) {
-            var localDirName = manifest.name + "-" + manifest.version.web;
-            var createAppDirPromise = bootstrap.createAppDir(localDirName);
+        async.
 
-            var files = manifest.files;
-            createAppDirPromise.done(function() {
-                bootstrap.downloadFiles(files);
-            });
-        });
+        this.downloadManifest()
+            .done(function(manifest) {
+                util.log('Success', JSON.stringify(manifest));
+                self.initAppDirectory(manifest);
+            })
+            .fail(self.onError);
+    },
+
+    initAppDirectory: function(manifest) {
+        var self = this;
+        var appName = manifest.name + "-" + manifest.version.web;
+        self.appDirectory = new AppDirectory(appName);
+        self.appDirectory.init()
+            .done(function() {
+                util.log('Success', 'AppDir initialized');
+                self.downloadWebFiles(manifest.files);
+            })
+            .fail(self.onError);
+    },
+
+    downloadWebF: function() {
+        self.downloadWebFiles(manifest.files)
+            .done(function() {
+                util.log('Success', 'All files downloaded and saved to AppDir');
+            })
+            .fail(self.onError);
     },
 
     downloadManifest: function() {
         util.log('downloadManifest', config.manifestUrl());
-        return $.getJSON(config.manifestUrl())
-            .done(function(data) {
-                util.log('Success', 'Successfully downloaded manifest.json');
-                util.log('Manifest', JSON.stringify(data));
-            })
-            .fail(function(jqXhr, textStatus, error) {
-                util.log('Error', 'Failed to download manifest.json');
-            });
+        return $.getJSON(config.manifestUrl());
     },
 
-    downloadFiles: function(files) {
+    downloadWebFiles: function(files, i) {
+        var self = this;
         var deferred = $.Deferred();
+        i = i || 0; // If i is not specified, then we assume 0;
 
-        var ft = new FileTransfer();
-        $.each(files, function(index, value) {
-            var serverUrl = config.baseUrl + value;
-            var localUrl = bootstrap.appDir + value;
+        var filePath = files[i];
+        var serverUrl = config.baseUrl + filePath;
+        var localUrl = self.appDirectory.getPath() + filePath;
 
-            util.log('Server URL', serverUrl);
-            util.log('Local URL', localUrl);
+        util.log('Server URL', serverUrl);
+        util.log('Local URL', localUrl);
 
-            ft.download(
-                serverUrl, // Download URL
-                localUrl,
-                function(entry) {
-                    util.log("download of " + serverUrl + " complete", entry.fullPath);
-                },
-                function(error) {
-                    util.log("download error", error);
-                }
-            );
+        this.downloadWebFile(serverUrl, localUrl)
+            .done(function() {
 
-        });
+            })
+            .fail(self.onError);
+
         return deferred.promise();
     },
 
-    createAppDir: function(localDirName) {
-        var deferred = $.Deferred();
+    downloadWebFile: function(source, target) {
         var self = this;
-        window.requestFileSystem(LocalFileSystem.PERSISTENT, 0,
-            function (fileSystem) {
-                var documentDir = fileSystem.root;
-                documentDir.getDirectory(localDirName,
-                    {create: true},
-                    function (appDir) {
-                        bootstrap.appDir = appDir.fullPath + '/';
-                        util.log('App Dir Created');
-                        deferred.resolve();
-                    },
-                    function (error) {
-                        util.log('Error getting App Dir', error.code);
-                        deferred.reject();
-                    }
-                );
+        var deferred = $.Deferred();
+
+        this.fileTransfer.download(
+            source, // Server URL
+            target, // AppDirectory in device
+            function(entry) {
+                util.log("Download of " + source + " complete", entry.fullPath);
+                deferred.resolve();
             },
-            function (evt) {
-                util.log('Error accessing file system', evt.target.error.code);
+            function(error) {
+                util.log("Download error", error);
                 deferred.reject();
             }
         );
+
         return deferred.promise();
+    },
+
+    onError: function(error) {
+        util.log('Error', error);
     }
 };

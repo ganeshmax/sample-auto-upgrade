@@ -2,7 +2,7 @@
     "name": "sample-auto-upgrade",
 
     "version": {
-        "web": 1,
+        "web": 2,
         "ios": 1,
         "android": 1
     },
@@ -10,7 +10,8 @@
     "files": [
         "script/script.js",
         "style/style.css",
-        "image/image.png",
-        "index.html"
+        "index.html",
+
+        "script/jquery-1.10.2.js"
     ]
 }
