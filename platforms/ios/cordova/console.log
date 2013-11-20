@@ -873,3 +873,44 @@ objc[32478]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.a
     source = "http://localhost:8000/image/image.png";
     target = "/Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-1/image/image.png";
 }
+objc[1421]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2013-11-03 23:19:13.985 sample-auto-upgrade[1421:80b] Cannot find executable for CFBundle 0xa640490 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2013-11-03 23:19:13.995 sample-auto-upgrade[1421:80b] Cannot find executable for CFBundle 0xa6780f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2013-11-03 23:19:14.030 sample-auto-upgrade[1421:80b] Multi-tasking -> Device: YES, App: YES
+2013-11-03 23:19:14.120 sample-auto-upgrade[1421:80b] Unlimited access to network resources
+2013-11-03 23:19:15.087 sample-auto-upgrade[1421:80b] Resetting plugins due to page load.
+2013-11-03 23:19:15.532 sample-auto-upgrade[1421:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/sample-auto-upgrade.app/www/index.html
+2013-11-03 23:19:15.560 sample-auto-upgrade[1421:80b] ---------- deviceready: 
+2013-11-03 23:19:15.560 sample-auto-upgrade[1421:80b] ---------- Bootstrap init: 
+2013-11-03 23:19:15.610 sample-auto-upgrade[1421:80b] ---------- getCurrentAppDirectory(): 
+2013-11-03 23:19:15.611 sample-auto-upgrade[1421:80b] ---------- currentAppDirectoryName: sample-auto-upgrade-undefined
+2013-11-03 23:19:15.611 sample-auto-upgrade[1421:80b] ---------- AppDirectory(): 
+2013-11-03 23:19:15.611 sample-auto-upgrade[1421:80b] ---------- AppDirectory.init(): 
+2013-11-03 23:19:15.614 sample-auto-upgrade[1421:80b] ---------- App Directory Created: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-undefined/
+2013-11-03 23:19:15.624 sample-auto-upgrade[1421:80b] ---------- downloadManifest(): http://localhost:8000/manifest.json
+2013-11-03 23:19:15.679 sample-auto-upgrade[1421:80b] ---------- AppDirectory(): 
+2013-11-03 23:19:15.680 sample-auto-upgrade[1421:80b] ---------- AppDirectory.init(): 
+2013-11-03 23:19:15.681 sample-auto-upgrade[1421:80b] ---------- App Directory Created: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-undefined/
+2013-11-03 23:19:15.686 sample-auto-upgrade[1421:80b] ---------- downloadWebFiles(): 
+2013-11-03 23:19:15.686 sample-auto-upgrade[1421:80b] ---------- Server URL: http://localhost:8000/script/script.js
+2013-11-03 23:19:15.686 sample-auto-upgrade[1421:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-undefined/script/script.js
+2013-11-03 23:19:15.710 sample-auto-upgrade[1421:80b] File Transfer Finished with response code 200
+2013-11-03 23:19:15.725 sample-auto-upgrade[1421:80b] ---------- Download Complete TO: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-undefined/script/script.js
+2013-11-03 23:19:15.726 sample-auto-upgrade[1421:80b] ---------- Server URL: http://localhost:8000/style/style.css
+2013-11-03 23:19:15.726 sample-auto-upgrade[1421:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-undefined/style/style.css
+2013-11-03 23:19:15.745 sample-auto-upgrade[1421:80b] File Transfer Finished with response code 200
+2013-11-03 23:19:15.762 sample-auto-upgrade[1421:80b] ---------- Download Complete TO: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-undefined/style/style.css
+2013-11-03 23:19:15.762 sample-auto-upgrade[1421:80b] ---------- Server URL: http://localhost:8000/index.html
+2013-11-03 23:19:15.762 sample-auto-upgrade[1421:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-undefined/index.html
+2013-11-03 23:19:15.783 sample-auto-upgrade[1421:80b] File Transfer Finished with response code 200
+2013-11-03 23:19:15.799 sample-auto-upgrade[1421:80b] ---------- Download Complete TO: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-undefined/index.html
+2013-11-03 23:19:15.799 sample-auto-upgrade[1421:80b] ---------- Server URL: http://localhost:8000/script/jquery-1.10.2.js
+2013-11-03 23:19:15.799 sample-auto-upgrade[1421:80b] ---------- Local URL: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-undefined/script/jquery-1.10.2.js
+2013-11-03 23:19:15.829 sample-auto-upgrade[1421:80b] File Transfer Finished with response code 200
+2013-11-03 23:19:15.853 sample-auto-upgrade[1421:80b] ---------- Download Complete TO: /Users/sganeshji/Library/Application Support/iPhone Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-undefined/script/jquery-1.10.2.js
+2013-11-03 23:19:15.853 sample-auto-upgrade[1421:80b] ---------- onEndOrError() in downloadFiles: 
+2013-11-03 23:19:15.873 sample-auto-upgrade[1421:80b] ---------- startApp(): 
+2013-11-03 23:19:15.874 sample-auto-upgrade[1421:80b] ---------- redirectTo(): 
+2013-11-03 23:19:15.875 sample-auto-upgrade[1421:80b] Resetting plugins due to page load.
+2013-11-03 23:19:15.886 sample-auto-upgrade[1421:80b] Finished load of: file:///Users/sganeshji/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/6325911D-D338-4D81-94F1-5B2C009DCE94/Documents/sample-auto-upgrade-undefined/index.html
+Terminating in response to SpringBoard's termination.

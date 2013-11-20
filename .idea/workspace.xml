@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7850eed-0b24-46dc-9f10-926cea3fb81e" name="Default" comment="">
+    <list default="true" id="a7850eed-0b24-46dc-9f10-926cea3fb81e" name="Default" comment="added liveUpdate.js and ff.js a new flow control and async &quot;pyramid of doom&quot; library. Not yet started work on it">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Node_js_Dependencies_for_sample_auto_upgrade.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/lib/ff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/liveUpdate.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/sample-auto-upgrade.xcodeproj/project.xcworkspace/xcuserdata/sganeshji.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/platforms/ios/sample-auto-upgrade.xcodeproj/project.xcworkspace/xcuserdata/sganeshji.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/www/js/bootstrapAsync.js" afterPath="$PROJECT_DIR$/platforms/ios/www/js/bootstrapAsync.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/bootstrapAsync.js" afterPath="$PROJECT_DIR$/www/js/bootstrapAsync.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/web/manifest.json" afterPath="$PROJECT_DIR$/server/web/manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/todo.txt" afterPath="$PROJECT_DIR$/temp/todo.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/ios/cordova/console.log" afterPath="$PROJECT_DIR$/platforms/ios/cordova/console.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sample-auto-upgrade.iml" afterPath="$PROJECT_DIR$/.idea/sample-auto-upgrade.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample-auto-upgrade.iws" />
@@ -34,52 +36,52 @@
       <file leaf-file-name="bootstrapAsync.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/bootstrapAsync.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="26" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2370">
+            <state line="141" column="25" selection-start="0" selection-end="5766" vertical-scroll-proportion="0.0" vertical-offset="2115" max-vertical-offset="2370">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/web/index.html">
+      <file leaf-file-name="liveUpdate.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/liveUpdate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="63" selection-start="306" selection-end="329" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="495">
+            <state line="48" column="37" selection-start="1903" selection-end="1903" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="2400">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/web/script/script.js">
+      <file leaf-file-name="util.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/util.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manifest.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/web/manifest.json">
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="16" selection-start="71" selection-end="71" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="315">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="done.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/temp/done.txt">
+      <file leaf-file-name="freshner.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/freshner.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+            <state line="127" column="27" selection-start="4479" selection-end="4479" vertical-scroll-proportion="0.0" vertical-offset="1905" max-vertical-offset="2850">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="todo.txt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/temp/todo.txt">
+      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="75" selection-start="485" selection-end="485" vertical-scroll-proportion="0.1904762" vertical-offset="0" max-vertical-offset="630">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
               <folding />
             </state>
           </provider>
@@ -88,34 +90,34 @@
       <file leaf-file-name="bootstrap.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/bootstrap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="24" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1590">
+            <state line="31" column="24" selection-start="1039" selection-end="1039" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1590">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platforms/ios/www/index.html">
+      <file leaf-file-name="BootstrapError.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/BootstrapError.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="660">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="16" selection-start="1487" selection-end="1487" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="660">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AppDirectory.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AppDirectory.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/AppDirectory.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="25" selection-start="2029" selection-end="2029" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1275">
+            <state line="31" column="45" selection-start="1119" selection-end="1119" vertical-scroll-proportion="0.7380952" vertical-offset="0" max-vertical-offset="1275">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ff.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/lib/ff.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="461" column="5" selection-start="15021" selection-end="15021" vertical-scroll-proportion="0.0" vertical-offset="6915" max-vertical-offset="7005">
               <folding />
             </state>
           </provider>
@@ -139,13 +141,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/www/js/lib/async.js" />
-        <option value="$PROJECT_DIR$/www/js/bootstrap.js" />
         <option value="$PROJECT_DIR$/www/js/lib/flow.js" />
         <option value="$PROJECT_DIR$/www/js/index.js" />
         <option value="$PROJECT_DIR$/platforms/ios/www/js/localDb.js" />
         <option value="$PROJECT_DIR$/platforms/ios/www/js/freshner.js" />
-        <option value="$PROJECT_DIR$/www/js/localDb.js" />
         <option value="$PROJECT_DIR$/www/js/freshner.js" />
         <option value="$PROJECT_DIR$/www/js/BootstrapError.js" />
         <option value="$PROJECT_DIR$/platforms/ios/build/device/sample-auto-upgrade.app/www/js/AppDirectory.js" />
@@ -155,6 +154,9 @@
         <option value="$PROJECT_DIR$/www/js/bootstrapAsync.js" />
         <option value="$PROJECT_DIR$/server/web/manifest.json" />
         <option value="$PROJECT_DIR$/temp/todo.txt" />
+        <option value="$PROJECT_DIR$/www/js/localDb.js" />
+        <option value="$PROJECT_DIR$/www/js/lib/ff.js" />
+        <option value="$PROJECT_DIR$/www/js/liveUpdate.js" />
       </list>
     </option>
   </component>
@@ -190,7 +192,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -251,6 +252,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample-auto-upgrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample-auto-upgrade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="temp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -289,6 +312,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,6 +322,7 @@
     <property name="options.lastSelected" value="editor.preferences.tabs" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="last_opened_file_path" value="/usr/local/lib/node_modules/grunt-cli/bin/grunt" />
+    <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -314,7 +339,7 @@
       <recent name="$PROJECT_DIR$/server/web" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.prepare-ios">
+  <component name="RunManager" selected="Node.js.debug-ios">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -364,10 +389,17 @@
       <ConfigurationWrapper RunnerId="NodeJS.run" />
       <method />
     </configuration>
-    <list size="3">
+    <configuration default="false" name="Server App" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/local/bin/node" node-parameters="app" working-dir="$PROJECT_DIR$/server">
+      <browser start="false" url="" with-js-debugger="false" />
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Node.js.debug-ios" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.emulate-ios" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.prepare-ios" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Server App" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -422,31 +454,35 @@
       <created>1383512340193</created>
       <updated>1383512340193</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updated progress">
+      <created>1383513376860</created>
+      <updated>1383513376860</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="22" width="1856" height="1058" extended-state="6" />
+    <frame x="64" y="22" width="1856" height="1058" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39574468" sideWeight="0.49972722" order="4" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19530824" sideWeight="0.67127657" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39978677" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.50027275" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287234" sideWeight="0.49972722" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287234" sideWeight="0.49972722" order="5" side_tool="false" content_ui="tabs" x="1944" y="299" width="1315" height="309" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -464,87 +500,74 @@
     <MESSAGE value="Added Grunt and Grunt Shell.&#10;Added tasks to debug ios directly from grunt.&#10;Integrated Grunt into Webstorm using the Node.js facility.&#10;Used the Webstorm terminal to tail the log files.&#10;Now, just pressing the play button will build the ios app, run simulator, deploy in ios simulator and debug the app." />
     <MESSAGE value="Downloaded files into documents folder under appName-appVersion folder and it is working perfectly fine. It is not clean.&#10;That is the task of the next iteration." />
     <MESSAGE value="Tried using flow-js, step-js and async-js to enable async flow to avoid pyramid hell.&#10;Currently, i was successful in making async work with proper and somewhat clean code.&#10;I had flow working 90% but was not satisfied by the library maturity and the code cleanliness that it was giving or the documentation that was available. So, currently it is still there temporarily. Next checkin, all the extraneous code will be moved to temp.&#10;The entire process of downloading the manifest and downloading the code etc has been performed and the application is getting installed and upgraded and redirected to. Success..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tried using flow-js, step-js and async-js to enable async flow to avoid pyramid hell.&#10;Currently, i was successful in making async work with proper and somewhat clean code.&#10;I had flow working 90% but was not satisfied by the library maturity and the code cleanliness that it was giving or the documentation that was available. So, currently it is still there temporarily. Next checkin, all the extraneous code will be moved to temp.&#10;The entire process of downloading the manifest and downloading the code etc has been performed and the application is getting installed and upgraded and redirected to. Success..." />
+    <MESSAGE value="updated progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated progress" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/platforms/ios/build/emulator/sample-auto-upgrade.app/www/js/AppDirectory.js">
+    <entry file="file://$PROJECT_DIR$/server/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-          <folding />
-        </state>
+        <state line="7" column="63" selection-start="306" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="495" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/ios/www/js/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/server/web/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1590">
-          <folding />
-        </state>
+        <state line="4" column="16" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="315" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/ios/www/js/AppDirectory.js">
+    <entry file="file://$PROJECT_DIR$/temp/done.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="41" selection-start="1297" selection-end="1297" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1275">
-          <folding>
-            <marker date="1383512418000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/todo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="16" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="16" selection-start="1487" selection-end="1487" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="660" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/localDb.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="6" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945">
-          <folding />
-        </state>
+        <state line="27" column="50" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0" vertical-offset="6" max-vertical-offset="945" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/freshner.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="131" column="0" selection-start="4517" selection-end="4857" vertical-scroll-proportion="0.0" vertical-offset="1365" max-vertical-offset="2850">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+    <entry file="file://$PROJECT_DIR$/www/js/util.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="939">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/ios/www/index.html">
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/AppDirectory.js">
+    <entry file="file://$PROJECT_DIR$/www/js/freshner.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="25" selection-start="2029" selection-end="2029" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1275">
+        <state line="127" column="27" selection-start="4479" selection-end="4479" vertical-scroll-proportion="0.0" vertical-offset="1365" max-vertical-offset="2850">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/web/script/script.js">
+    <entry file="file://$PROJECT_DIR$/www/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="939">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
+    <entry file="file://$PROJECT_DIR$/www/js/BootstrapError.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="16" selection-start="1487" selection-end="1487" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="660">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/web/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="63" selection-start="306" selection-end="329" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="495">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="939">
           <folding />
         </state>
       </provider>
@@ -556,30 +579,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/lib/ff.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="461" column="5" selection-start="15021" selection-end="15021" vertical-scroll-proportion="0.0" vertical-offset="5646" max-vertical-offset="6645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/bootstrapAsync.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="26" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2370">
+        <state line="141" column="25" selection-start="0" selection-end="5766" vertical-scroll-proportion="0.0" vertical-offset="621" max-vertical-offset="1560">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/web/manifest.json">
+    <entry file="file://$PROJECT_DIR$/www/js/liveUpdate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="16" selection-start="71" selection-end="71" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="315">
+        <state line="48" column="37" selection-start="1903" selection-end="1903" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="2400">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp/done.txt">
+    <entry file="file://$PROJECT_DIR$/www/js/AppDirectory.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp/todo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="75" selection-start="485" selection-end="485" vertical-scroll-proportion="0.1904762" vertical-offset="0" max-vertical-offset="630">
+        <state line="31" column="45" selection-start="1119" selection-end="1119" vertical-scroll-proportion="0.7380952" vertical-offset="0" max-vertical-offset="1275">
           <folding />
         </state>
       </provider>
